@@ -1,1 +1,1 @@
-# spc - a python web crawler
+# SPC - a python web crawler
